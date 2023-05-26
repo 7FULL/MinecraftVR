@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f345e17d9bb24f48a9537c660fe1504, type: 3}
+  m_Name: Tablones roble 1
+  m_EditorClassIdentifier: 
+  item_00: {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  item_10: {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  item_20: {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  item_01: {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  item_11: {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  item_21: {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  item_02: {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  item_12: {fileID: 11400000, guid: 110949f6dc602994e94fbee0e994a335, type: 2}
+  item_22: {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  item_00Much: 0
+  item_10Much: 0
+  item_20Much: 0
+  item_01Much: 0
+  item_11Much: 0
+  item_21Much: 0
+  item_02Much: 0
+  item_12Much: 1
+  item_22Much: 0
+  outputItem: {fileID: 11400000, guid: f8da5f14689aa4649a24a166d225a6af, type: 2}
+  outputItemMuch: 4

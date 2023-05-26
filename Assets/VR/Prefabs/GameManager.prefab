@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7419978660369681198
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7419978660369681197}
+  - component: {fileID: 7419978660369681196}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7419978660369681197
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7419978660369681198}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 103.5, y: 9, z: 87.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7419978660369681196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7419978660369681198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aae9d0b6fcbed4243ace8d37017f04c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 385396511542714405, guid: 948fa8faa0991df419d9c8060b642dae, type: 3}
+  player: {fileID: 0}
+  currentPlayerChunkPosition: {x: 0, y: 0, z: 0}
+  world: {fileID: 0}
+  detectionTime: 1
+  defaultItem: {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  items:
+  - {fileID: 11400000, guid: 0a4f8682b7628d6499749a62617be353, type: 2}
+  - {fileID: 11400000, guid: f233d73c7e6042b4c95817e2b510bc02, type: 2}
+  - {fileID: 11400000, guid: 31241f8a03c5d2247889ae570f5704d3, type: 2}
+  - {fileID: 11400000, guid: 55990b8c33232eb4796e96aa3533dfb5, type: 2}
+  - {fileID: 11400000, guid: 2f9410ade26da944aba6564c141fb89c, type: 2}
+  - {fileID: 11400000, guid: e6482b59ef6e84b429b2335dad596751, type: 2}
+  - {fileID: 11400000, guid: 9337351a471accf4788ac02f558779df, type: 2}
+  - {fileID: 11400000, guid: 110949f6dc602994e94fbee0e994a335, type: 2}
+  - {fileID: 11400000, guid: a613297525c6a254bafd6f5862f8c187, type: 2}
+  - {fileID: 11400000, guid: 4a60492f25c89a2499cfac8b4be3ae7c, type: 2}
+  - {fileID: 11400000, guid: 0d86c10ea94a0fe42894709c74f9255b, type: 2}
+  - {fileID: 11400000, guid: 3930cbaa73648d640ad6695d5034a400, type: 2}
+  - {fileID: 11400000, guid: a1644b8ed2acaac449b33bd85ba3c142, type: 2}
+  - {fileID: 11400000, guid: a716434d8535e9b46a6b86265905b7e9, type: 2}
+  - {fileID: 11400000, guid: f8da5f14689aa4649a24a166d225a6af, type: 2}
+  - {fileID: 11400000, guid: c0f8c90b6c32c274391c3be1ebe49f57, type: 2}
+  blockData: {fileID: 11400000, guid: 5ad09aa0934211246a90353d6fdace9b, type: 2}
+  defaultMaterial: {fileID: 2100000, guid: 0d03d2cd98758764d943b6e69b69014e, type: 2}
+  invisibleSprite: {fileID: 21300000, guid: d3002da6bd936a84aa37b03269c33048, type: 3}

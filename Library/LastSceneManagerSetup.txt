@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/VR/Samples/XR Interaction Toolkit/2.3.2/Hands Interaction Demo/Runtime/HandsDemoScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/VR/Scenes/Minecraft.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

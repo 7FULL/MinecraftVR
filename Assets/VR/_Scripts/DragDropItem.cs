@@ -48,6 +48,27 @@ public class DragDropItem : MonoBehaviour, IPointerDownHandler, IBeginDragHandle
     public ChunkRenderer chunkRenderer;
 
     private PlayerController3D player;
+    
+    private ControlesVR _controlesVR;
+    
+    private bool usarVR = false;
+    private bool cooldownUsarVR = false;
+
+    private void Awake()
+    {
+        _controlesVR = new ControlesVR();
+
+        _controlesVR.VR.Usar.started += u => usarVR = true;
+        _controlesVR.VR.Usar.canceled += u => usarVR = false;
+
+        _controlesVR.Enable();
+    }
+    
+    IEnumerator cooldownVRUsar()
+    {
+        yield return new WaitForSecondsRealtime(.1f);
+        cooldownUsarVR = false;
+    }
 
     private void Start()
     {
@@ -120,8 +141,12 @@ public class DragDropItem : MonoBehaviour, IPointerDownHandler, IBeginDragHandle
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(1) && PointerEventData != null)
+        if ((Input.GetMouseButtonDown(1) || usarVR )&& PointerEventData != null && !cooldownUsarVR)
         {
+            cooldownUsarVR = true;
+            
+            StartCoroutine(cooldownVRUsar());
+            
             if (PointerEventData.pointerEnter.name == "Panel")
             {
                 //Debug.Log("0");
@@ -480,7 +505,8 @@ public class DragDropItem : MonoBehaviour, IPointerDownHandler, IBeginDragHandle
     {
         PointerEventData = eventData;
         
-        rectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor / 1.5f / 1.5f;
+        rectTransform.anchoredPosition += eventData.delta * canvas.scaleFactor * 1.5f * 1.5F;
+        rectTransform.anchoredPosition = eventData.position;
 
         if (transform.GetSiblingIndex() != transform.parent.childCount - 1)
         {
