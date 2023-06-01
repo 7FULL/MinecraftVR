@@ -8907,7 +8907,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_418
+      name: diamante
       rect:
         serializedVersion: 2
         x: 64
@@ -8928,7 +8928,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_419
+      name: espada diamante
       rect:
         serializedVersion: 2
         x: 96
@@ -9096,7 +9096,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_427
+      name: pico diamante
       rect:
         serializedVersion: 2
         x: 352
@@ -9117,7 +9117,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_428
+      name: pala diamante
       rect:
         serializedVersion: 2
         x: 384
@@ -9138,7 +9138,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_429
+      name: diamante espada
       rect:
         serializedVersion: 2
         x: 416
@@ -11112,7 +11112,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_523
+      name: hacha oro
       rect:
         serializedVersion: 2
         x: 352
@@ -11280,7 +11280,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_531
+      name: pico oro
       rect:
         serializedVersion: 2
         x: 608
@@ -11301,7 +11301,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_532
+      name: pala oro
       rect:
         serializedVersion: 2
         x: 640
@@ -11322,7 +11322,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_533
+      name: espada oro
       rect:
         serializedVersion: 2
         x: 672
@@ -12540,7 +12540,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_591
+      name: hacha hierro
       rect:
         serializedVersion: 2
         x: 480
@@ -12792,7 +12792,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_603
+      name: pico hierro
       rect:
         serializedVersion: 2
         x: 864
@@ -12813,10 +12813,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_604
+      name: pala hierro
       rect:
         serializedVersion: 2
-        x: 896
+        x: 897
         y: 768
         width: 32
         height: 32
@@ -12834,7 +12834,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_605
+      name: espada hierro
       rect:
         serializedVersion: 2
         x: 928
@@ -20856,7 +20856,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_987
+      name: cerdo
       rect:
         serializedVersion: 2
         x: 864
@@ -21696,7 +21696,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_1027
+      name: zombie
       rect:
         serializedVersion: 2
         x: 96
@@ -23544,7 +23544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_1115
+      name: hacha piedra
       rect:
         serializedVersion: 2
         x: 864
@@ -23691,7 +23691,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_1122
+      name: pico piedra
       rect:
         serializedVersion: 2
         x: 64
@@ -23733,7 +23733,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_1124
+      name: pala piedra
       rect:
         serializedVersion: 2
         x: 128
@@ -23796,7 +23796,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_1127
+      name: espada piedra
       rect:
         serializedVersion: 2
         x: 224
@@ -26547,7 +26547,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_1258
+      name: hacha madera
       rect:
         serializedVersion: 2
         x: 320
@@ -26589,7 +26589,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_1260
+      name: pico madera
       rect:
         serializedVersion: 2
         x: 384
@@ -26610,7 +26610,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_1261
+      name: pala madera
       rect:
         serializedVersion: 2
         x: 416
@@ -26631,7 +26631,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons-minecraft-0.8_1262
+      name: espada madera
       rect:
         serializedVersion: 2
         x: 448
@@ -28751,6 +28751,7 @@ TextureImporter:
       icons-minecraft-0.8_1076: 128277394
       icons-minecraft-0.8_1327: -293139078
       icons-minecraft-0.8_59: -612153659
+      pico piedra: 1909665315
       icons-minecraft-0.8_800: 137001139
       icons-minecraft-0.8_628: -348624623
       icons-minecraft-0.8_745: 890730705
@@ -28826,6 +28827,7 @@ TextureImporter:
       icons-minecraft-0.8_1107: 1045599906
       icons-minecraft-0.8_527: -2053086431
       icons-minecraft-0.8_1133: 198242079
+      pala diamante: 1199105975
       icons-minecraft-0.8_984: -1866133076
       icons-minecraft-0.8_1066: -173963620
       icons-minecraft-0.8_103: 777693368
@@ -28877,7 +28879,6 @@ TextureImporter:
       icons-minecraft-0.8_417: -319630385
       icons-minecraft-0.8_1152: 1306424905
       icons-minecraft-0.8_274: 733345454
-      icons-minecraft-0.8_1127: 315893024
       icons-minecraft-0.8_396: 795261601
       icons-minecraft-0.8_688: -405017604
       icons-minecraft-0.8_892: -69686190
@@ -28893,7 +28894,7 @@ TextureImporter:
       icons-minecraft-0.8_1016: -1049222638
       icons-minecraft-0.8_945: 1995461343
       icons-minecraft-0.8_204: 706631696
-      icons-minecraft-0.8_591: 660415371
+      tablones de roble: -713083153
       icons-minecraft-0.8_1313: -1121254074
       icons-minecraft-0.8_245: 2017111063
       icons-minecraft-0.8_740: 1996717066
@@ -28903,7 +28904,6 @@ TextureImporter:
       icons-minecraft-0.8_767: 1070348297
       icons-minecraft-0.8_517: 828310736
       icons-minecraft-0.8_1155: -2124395659
-      tablones de roble: -713083153
       icons-minecraft-0.8_676: -625082935
       icons-minecraft-0.8_1349: 276683853
       icons-minecraft-0.8_701: 1741206600
@@ -28993,9 +28993,9 @@ TextureImporter:
       icons-minecraft-0.8_677: 400029995
       icons-minecraft-0.8_545: -1058299295
       icons-minecraft-0.8_515: 859051181
-      icons-minecraft-0.8_429: 1533935012
       icons-minecraft-0.8_874: -951499503
       icons-minecraft-0.8_1244: -1060919557
+      diamante espada: 1533935012
       icons-minecraft-0.8_157: 1954310530
       icons-minecraft-0.8_453: -2050458809
       icons-minecraft-0.8_1: -1114696780
@@ -29010,40 +29010,40 @@ TextureImporter:
       Madera de abeto: -1346802794
       icons-minecraft-0.8_152: 1762909615
       icons-minecraft-0.8_1177: 456279242
-      icons-minecraft-0.8_691: -1282030070
+      icons-minecraft-0.8_511: -136282621
       icons-minecraft-0.8_486: 1613222551
-      icons-minecraft-0.8_519: -1910883102
+      icons-minecraft-0.8_8: -1039332523
       icons-minecraft-0.8_475: 1190251863
       icons-minecraft-0.8_709: -1698166232
       icons-minecraft-0.8_649: -1732657335
       icons-minecraft-0.8_145: -490642485
       icons-minecraft-0.8_1040: 855739919
       icons-minecraft-0.8_1239: 1948251450
-      icons-minecraft-0.8_511: -136282621
-      icons-minecraft-0.8_8: -1039332523
       icons-minecraft-0.8_378: -1094171117
       icons-minecraft-0.8_175: 1511032215
+      icons-minecraft-0.8_691: -1282030070
       icons-minecraft-0.8_218: -1652512409
       icons-minecraft-0.8_1186: -1919719219
-      icons-minecraft-0.8_821: -721809105
+      icons-minecraft-0.8_519: -1910883102
       icons-minecraft-0.8_1263: 2069170076
       icons-minecraft-0.8_1248: -1345317606
       icons-minecraft-0.8_1284: 1621442724
-      icons-minecraft-0.8_1144: -1999030869
+      icons-minecraft-0.8_821: -721809105
       icons-minecraft-0.8_981: -74319712
       icons-minecraft-0.8_999: 96225448
       icons-minecraft-0.8_1256: -469411465
       icons-minecraft-0.8_438: -1362753573
       icons-minecraft-0.8_170: 1822294622
       icons-minecraft-0.8_685: -1503755310
+      icons-minecraft-0.8_1144: -1999030869
       icons-minecraft-0.8_236: 1148322979
-      icons-minecraft-0.8_1075: -1331406200
       icons-minecraft-0.8_376: 1546034460
       icons-minecraft-0.8_119: -265293451
+      icons-minecraft-0.8_1075: -1331406200
       icons-minecraft-0.8_850: -243864693
-      icons-minecraft-0.8_778: -1161372451
       icons-minecraft-0.8_538: 1776887211
       icons-minecraft-0.8_484: 16998177
+      icons-minecraft-0.8_778: -1161372451
       icons-minecraft-0.8_455: 138207978
       icons-minecraft-0.8_100: 951572555
       icons-minecraft-0.8_594: -47983767
@@ -29061,7 +29061,6 @@ TextureImporter:
       icons-minecraft-0.8_342: -353639301
       icons-minecraft-0.8_1120: -1630432269
       icons-minecraft-0.8_693: 644394360
-      icons-minecraft-0.8_1261: 1685525559
       icons-minecraft-0.8_706: -1425193030
       icons-minecraft-0.8_955: -33683440
       icons-minecraft-0.8_977: -1607744709
@@ -29145,7 +29144,6 @@ TextureImporter:
       icons-minecraft-0.8_983: -1877907972
       icons-minecraft-0.8_339: -443879924
       icons-minecraft-0.8_1070: -733883499
-      icons-minecraft-0.8_1122: 1909665315
       icons-minecraft-0.8_27: 147914944
       icons-minecraft-0.8_578: -1603616822
       icons-minecraft-0.8_818: 128980064
@@ -29182,7 +29180,7 @@ TextureImporter:
       icons-minecraft-0.8_729: 1479480174
       icons-minecraft-0.8_541: -1976614663
       icons-minecraft-0.8_188: -388163562
-      icons-minecraft-0.8_418: 1014183668
+      diamante: 1014183668
       icons-minecraft-0.8_780: -170519668
       icons-minecraft-0.8_1352: -58394377
       icons-minecraft-0.8_1117: -32145342
@@ -29209,6 +29207,7 @@ TextureImporter:
       icons-minecraft-0.8_143: -123218342
       icons-minecraft-0.8_129: -1949919199
       icons-minecraft-0.8_466: 1232693294
+      pala madera: 1685525559
       icons-minecraft-0.8_133: 1528136505
       icons-minecraft-0.8_383: -2097301809
       icons-minecraft-0.8_412: -67217007
@@ -29229,6 +29228,7 @@ TextureImporter:
       icons-minecraft-0.8_835: 162373788
       icons-minecraft-0.8_1055: 466041104
       icons-minecraft-0.8_928: -562389720
+      pico diamante: -1605484691
       icons-minecraft-0.8_130: 682485803
       icons-minecraft-0.8_1345: -1607567274
       icons-minecraft-0.8_503: -1865642524
@@ -29309,6 +29309,7 @@ TextureImporter:
       icons-minecraft-0.8_26: 2028869333
       icons-minecraft-0.8_595: 649268608
       icons-minecraft-0.8_282: -78430487
+      hacha hierro: 660415371
       icons-minecraft-0.8_1022: -433639513
       icons-minecraft-0.8_325: -884039035
       icons-minecraft-0.8_518: -1838619626
@@ -29357,31 +29358,30 @@ TextureImporter:
       icons-minecraft-0.8_898: -1599832982
       icons-minecraft-0.8_321: -417516593
       icons-minecraft-0.8_480: 596258925
-      icons-minecraft-0.8_531: 580252394
       icons-minecraft-0.8_1044: -1297451938
       icons-minecraft-0.8_366: 1312101431
       icons-minecraft-0.8_109: 270828177
       icons-minecraft-0.8_917: 1056393164
-      icons-minecraft-0.8_1206: -259527771
-      icons-minecraft-0.8_1125: 2053688438
       icons-minecraft-0.8_1225: -1051899030
+      icons-minecraft-0.8_1206: -259527771
       icons-minecraft-0.8_868: -76337564
       icons-minecraft-0.8_369: -3139956
       icons-minecraft-0.8_1305: -1431133292
       icons-minecraft-0.8_162: 34895889
-      icons-minecraft-0.8_575: 669295274
+      icons-minecraft-0.8_1125: 2053688438
       icons-minecraft-0.8_1222: -396919609
-      icons-minecraft-0.8_773: -453242571
+      icons-minecraft-0.8_575: 669295274
       icons-minecraft-0.8_580: 1574574373
-      icons-minecraft-0.8_1204: -411184309
+      icons-minecraft-0.8_773: -453242571
       icons-minecraft-0.8_63: -1236218451
       icons-minecraft-0.8_17: 1865406796
       icons-minecraft-0.8_52: -930826896
-      madera de roble: 331479979
+      icons-minecraft-0.8_1204: -411184309
       icons-minecraft-0.8_764: 481976068
       icons-minecraft-0.8_1061: 96401769
       icons-minecraft-0.8_54: 1041749149
       icons-minecraft-0.8_1180: 1121118607
+      madera de roble: 331479979
       icons-minecraft-0.8_623: 889364608
       icons-minecraft-0.8_931: 1956947453
       icons-minecraft-0.8_1154: 962719681
@@ -29400,7 +29400,6 @@ TextureImporter:
       icons-minecraft-0.8_1006: 1462192064
       icons-minecraft-0.8_278: 1187704766
       icons-minecraft-0.8_805: -1082552946
-      icons-minecraft-0.8_1124: -1839096320
       icons-minecraft-0.8_367: -77812862
       icons-minecraft-0.8_141: 897681123
       icons-minecraft-0.8_71: -558080236
@@ -29416,6 +29415,7 @@ TextureImporter:
       icons-minecraft-0.8_456: -515446319
       icons-minecraft-0.8_1063: 44836992
       icons-minecraft-0.8_1005: 1067116539
+      pico madera: -665889199
       icons-minecraft-0.8_1077: 1718979652
       icons-minecraft-0.8_551: -1513834486
       icons-minecraft-0.8_1010: -1370397511
@@ -29443,20 +29443,18 @@ TextureImporter:
       icons-minecraft-0.8_260: 2024361320
       icons-minecraft-0.8_1151: 949152711
       icons-minecraft-0.8_60: 1268939048
-      icons-minecraft-0.8_523: 412304866
+      icons-minecraft-0.8_1003: 239213759
       icons-minecraft-0.8_758: 1164223403
       icons-minecraft-0.8_44: -546993015
       icons-minecraft-0.8_89: -1809959023
       icons-minecraft-0.8_875: 1914000463
       icons-minecraft-0.8_968: -134515206
-      icons-minecraft-0.8_1260: -665889199
       icons-minecraft-0.8_185: 786486624
       icons-minecraft-0.8_785: -1796252116
       icons-minecraft-0.8_858: -80378347
       icons-minecraft-0.8_311: 1453979354
       icons-minecraft-0.8_28: 1631746267
       icons-minecraft-0.8_202: -1311759113
-      icons-minecraft-0.8_1003: 239213759
       icons-minecraft-0.8_736: 143847315
       icons-minecraft-0.8_607: 2059050642
       icons-minecraft-0.8_1227: 459067361
@@ -29491,6 +29489,7 @@ TextureImporter:
       icons-minecraft-0.8_179: -1542525698
       icons-minecraft-0.8_776: 1485609485
       icons-minecraft-0.8_1067: 1250393644
+      espada piedra: 315893024
       icons-minecraft-0.8_647: -1199035332
       icons-minecraft-0.8_1052: -2076736421
       icons-minecraft-0.8_598: -1939016967
@@ -29529,6 +29528,7 @@ TextureImporter:
       icons-minecraft-0.8_922: 1930974993
       icons-minecraft-0.8_1099: 1940819006
       icons-minecraft-0.8_1102: -545683013
+      hacha piedra: -219265502
       icons-minecraft-0.8_734: -516880153
       icons-minecraft-0.8_283: -546856845
       icons-minecraft-0.8_331: 760178042
@@ -29562,6 +29562,7 @@ TextureImporter:
       icons-minecraft-0.8_1304: 1262122970
       icons-minecraft-0.8_520: 513657949
       icons-minecraft-0.8_684: -205511545
+      hacha oro: 412304866
       icons-minecraft-0.8_1056: -1763303905
       icons-minecraft-0.8_1279: 566254036
       icons-minecraft-0.8_749: 257992448
@@ -29569,7 +29570,7 @@ TextureImporter:
       icons-minecraft-0.8_72: -648389182
       icons-minecraft-0.8_1080: 601668216
       icons-minecraft-0.8_720: 1822456775
-      icons-minecraft-0.8_603: 2015125031
+      icons-minecraft-0.8_1205: -1426604022
       icons-minecraft-0.8_600: 2093843437
       icons-minecraft-0.8_622: 1317165623
       icons-minecraft-0.8_291: 1112311550
@@ -29580,15 +29581,15 @@ TextureImporter:
       icons-minecraft-0.8_1184: 907723200
       icons-minecraft-0.8_659: -596679140
       icons-minecraft-0.8_699: 625367858
-      icons-minecraft-0.8_987: -368312824
+      icons-minecraft-0.8_1134: 1444859469
       icons-minecraft-0.8_345: -1767787808
-      icons-minecraft-0.8_1205: -1426604022
       icons-minecraft-0.8_1034: -709517923
       icons-minecraft-0.8_687: -349814680
-      icons-minecraft-0.8_1134: 1444859469
       icons-minecraft-0.8_1175: -2051902211
       icons-minecraft-0.8_310: 1491029390
       icons-minecraft-0.8_322: 1137162641
+      zombie: -228136146
+      pala oro: -311821390
       icons-minecraft-0.8_741: 1458620154
       icons-minecraft-0.8_1300: 1197831219
       icons-minecraft-0.8_543: 1406641548
@@ -29677,6 +29678,7 @@ TextureImporter:
       icons-minecraft-0.8_261: -1107970886
       icons-minecraft-0.8_457: 2126718269
       icons-minecraft-0.8_1114: -1720640034
+      pala hierro: 1832574461
       icons-minecraft-0.8_788: -1100807712
       icons-minecraft-0.8_1325: -223762871
       icons-minecraft-0.8_368: -1766291136
@@ -29710,7 +29712,6 @@ TextureImporter:
       icons-minecraft-0.8_1277: 178699192
       icons-minecraft-0.8_563: -1342022780
       icons-minecraft-0.8_1178: -1667061653
-      icons-minecraft-0.8_605: -744955845
       icons-minecraft-0.8_889: -1572016958
       icons-minecraft-0.8_546: -648676493
       icons-minecraft-0.8_1271: 2031341818
@@ -29720,9 +29721,8 @@ TextureImporter:
       icons-minecraft-0.8_1026: 1438551973
       icons-minecraft-0.8_85: -1813019098
       icons-minecraft-0.8_747: -363934189
-      icons-minecraft-0.8_532: -311821390
       icons-minecraft-0.8_1101: 1502357112
-      icons-minecraft-0.8_604: 1832574461
+      icons-minecraft-0.8_1255: -1774934904
       icons-minecraft-0.8_461: -1143922980
       icons-minecraft-0.8_779: -35497608
       icons-minecraft-0.8_982: 1445455394
@@ -29733,7 +29733,6 @@ TextureImporter:
       icons-minecraft-0.8_579: -1933276648
       icons-minecraft-0.8_559: -220813934
       icons-minecraft-0.8_116: 1596713288
-      icons-minecraft-0.8_428: 1199105975
       icons-minecraft-0.8_258: 1500269307
       icons-minecraft-0.8_500: -1938090125
       icons-minecraft-0.8_845: 1805110664
@@ -29747,29 +29746,28 @@ TextureImporter:
       icons-minecraft-0.8_1116: 1455972342
       icons-minecraft-0.8_1139: 1768926413
       icons-minecraft-0.8_1194: -1068594832
-      icons-minecraft-0.8_1255: -1774934904
+      cerdo: -368312824
       Cesped: -559644137
+      espada madera: 979020191
       icons-minecraft-0.8_436: 822460215
       icons-minecraft-0.8_555: 54270548
       icons-minecraft-0.8_409: -834035352
       icons-minecraft-0.8_14: 92862503
       icons-minecraft-0.8_496: 345648764
       icons-minecraft-0.8_238: 1414224985
-      icons-minecraft-0.8_1115: -219265502
       icons-minecraft-0.8_1330: 414914233
       icons-minecraft-0.8_214: -637526593
       icons-minecraft-0.8_1226: -793586171
       icons-minecraft-0.8_299: -1752898454
       icons-minecraft-0.8_905: -1618361309
       icons-minecraft-0.8_671: 1821355967
-      icons-minecraft-0.8_533: -853181677
+      icons-minecraft-0.8_1250: -903637862
       icons-minecraft-0.8_655: 1803967453
       icons-minecraft-0.8_673: -1137119974
       icons-minecraft-0.8_993: -2136481735
       icons-minecraft-0.8_1131: -1263402892
       icons-minecraft-0.8_386: -916433474
       icons-minecraft-0.8_476: -505692842
-      icons-minecraft-0.8_1250: -903637862
       icons-minecraft-0.8_879: 1811499244
       icons-minecraft-0.8_1287: -984287035
       icons-minecraft-0.8_23: 1431406446
@@ -29783,7 +29781,6 @@ TextureImporter:
       icons-minecraft-0.8_86: 111784018
       icons-minecraft-0.8_276: -1763440333
       icons-minecraft-0.8_754: 999419287
-      icons-minecraft-0.8_1258: 2111021796
       icons-minecraft-0.8_642: 209176974
       icons-minecraft-0.8_1007: -1328242250
       icons-minecraft-0.8_1104: -26855882
@@ -29800,6 +29797,7 @@ TextureImporter:
       icons-minecraft-0.8_123: 2122121228
       icons-minecraft-0.8_798: -1424712797
       icons-minecraft-0.8_1193: 1941517823
+      espada oro: -853181677
       icons-minecraft-0.8_651: -424352399
       icons-minecraft-0.8_737: 964290711
       icons-minecraft-0.8_393: 328282471
@@ -29820,7 +29818,7 @@ TextureImporter:
       icons-minecraft-0.8_902: 269162771
       icons-minecraft-0.8_212: -1148222086
       icons-minecraft-0.8_61: 896451043
-      icons-minecraft-0.8_1027: -228136146
+      espada hierro: -744955845
       icons-minecraft-0.8_485: 725548608
       icons-minecraft-0.8_144: 131692172
       icons-minecraft-0.8_149: -1990059893
@@ -29840,6 +29838,7 @@ TextureImporter:
       icons-minecraft-0.8_698: 685040049
       icons-minecraft-0.8_1111: -1178979714
       icons-minecraft-0.8_79: -1576004501
+      pala piedra: -1839096320
       icons-minecraft-0.8_813: 1765532978
       icons-minecraft-0.8_1351: 2036969823
       icons-minecraft-0.8_272: 363927358
@@ -29883,6 +29882,7 @@ TextureImporter:
       icons-minecraft-0.8_793: -1551456140
       icons-minecraft-0.8_896: -632964205
       icons-minecraft-0.8_1012: 1186005298
+      pico hierro: 2015125031
       icons-minecraft-0.8_705: 2144755851
       icons-minecraft-0.8_267: 563104886
       icons-minecraft-0.8_263: 162096179
@@ -29897,15 +29897,16 @@ TextureImporter:
       icons-minecraft-0.8_1047: 429439459
       icons-minecraft-0.8_21: -767403251
       icons-minecraft-0.8_1169: -593501600
+      pico oro: 580252394
       icons-minecraft-0.8_1109: -2029522289
       icons-minecraft-0.8_173: -1448024642
-      icons-minecraft-0.8_427: -1605484691
+      icons-minecraft-0.8_1208: -940697443
       icons-minecraft-0.8_364: -1652019224
       icons-minecraft-0.8_599: 1193981557
       icons-minecraft-0.8_803: -1086243153
       icons-minecraft-0.8_790: -276964184
       icons-minecraft-0.8_424: 2015303123
-      icons-minecraft-0.8_1208: -940697443
+      icons-minecraft-0.8_1323: 292522457
       icons-minecraft-0.8_851: -1693017401
       icons-minecraft-0.8_601: 281781869
       icons-minecraft-0.8_22: 1203532416
@@ -29924,7 +29925,6 @@ TextureImporter:
       icons-minecraft-0.8_866: -1501615271
       icons-minecraft-0.8_1289: -881417126
       icons-minecraft-0.8_348: 254294689
-      icons-minecraft-0.8_1323: 292522457
       icons-minecraft-0.8_405: 2145559907
       icons-minecraft-0.8_191: -795905040
       icons-minecraft-0.8_220: -871628369
@@ -29959,6 +29959,7 @@ TextureImporter:
       icons-minecraft-0.8_542: 1898405014
       icons-minecraft-0.8_730: 1425001373
       icons-minecraft-0.8_1198: -1048032693
+      espada diamante: -1778413025
       icons-minecraft-0.8_1283: 705378997
       icons-minecraft-0.8_96: 1168630739
       icons-minecraft-0.8_529: -1163504717
@@ -29970,13 +29971,13 @@ TextureImporter:
       icons-minecraft-0.8_799: 1160130338
       icons-minecraft-0.8_689: -1363203789
       icons-minecraft-0.8_350: 691913407
+      hacha madera: 2111021796
       icons-minecraft-0.8_756: 1193731324
       icons-minecraft-0.8_1150: -784655498
       icons-minecraft-0.8_1341: 1282853540
       icons-minecraft-0.8_1174: 1772412540
       icons-minecraft-0.8_765: -1992709612
       icons-minecraft-0.8_24: -1764421281
-      icons-minecraft-0.8_419: -1778413025
       icons-minecraft-0.8_494: -1377622165
       icons-minecraft-0.8_733: 1193708486
       icons-minecraft-0.8_1335: 131691940
@@ -30027,7 +30028,6 @@ TextureImporter:
       icons-minecraft-0.8_524: -595272961
       icons-minecraft-0.8_933: 515138608
       icons-minecraft-0.8_1191: -1221465307
-      icons-minecraft-0.8_1262: 979020191
       icons-minecraft-0.8_1110: 2084455782
       icons-minecraft-0.8_832: 1409510632
       icons-minecraft-0.8_988: 45646183

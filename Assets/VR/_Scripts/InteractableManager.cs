@@ -44,10 +44,24 @@ public class InteractableManager : MonoBehaviour
                 
                 player.stop();
                 break;
-            //El filete de momento es un bloque de adoquin por que todavia no lo hemos metido xDD
-            case BlockType.BLOQUE_ADOQUIN:
-                bool x = player.eat(1);
+            case BlockType.CERDO:
+                bool x = player.eat(3);
                 if (x)
+                {
+                    Debug.Log("a");
+                    player.usedItem();
+                }
+                break;
+            case BlockType.CERDOCOCINADO:
+                bool x2 = player.eat(8);
+                if (x2)
+                {
+                    player.usedItem();
+                }
+                break;
+            case BlockType.ZOMBIE:
+                bool x3 = player.eat(1);
+                if (x3)
                 {
                     player.usedItem();
                 }
